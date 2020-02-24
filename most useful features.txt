@@ -1,0 +1,10 @@
+18              stcpb  2.160697e+13
+19              dtcpb  2.079258e+13
+9               sload  2.832137e+12
+10              dload  2.374350e+11
+6                rate  5.743264e+09
+0               ï»¿id  2.709497e+09
+5              dbytes  1.432230e+09
+13             sinpkt  2.892880e+08
+4              sbytes  2.089252e+08
+27  response_body_len  1.096430e+08
